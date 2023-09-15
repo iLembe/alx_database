@@ -1,1 +1,1 @@
-USE \; SHOW TABLES;
+USE \; SHOW TABLES;-- comment
