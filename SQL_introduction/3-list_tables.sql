@@ -1,2 +1,2 @@
--- comment
-USE \; SHOW TABLES;-- comment
+--comment
+SHOW TABLES FROM mysql;
